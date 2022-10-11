@@ -20,7 +20,7 @@ def validate_user_input():
             print('You did not enter a valid number, please try again')
           
     
-validate_user_input()
+#validate_user_input()
 
  
 
